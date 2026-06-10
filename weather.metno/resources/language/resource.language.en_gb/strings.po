@@ -1,0 +1,216 @@
+# Kodi Media Center language file
+# Addon Name: Yr (MET Norway)
+# Addon id: weather.metno
+# Addon Provider: tommyleo
+msgid ""
+msgstr ""
+"Project-Id-Version: weather.metno\n"
+"POT-Creation-Date: 2026-06-03 12:00+0000\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#32101"
+msgid "Locations"
+msgstr ""
+
+msgctxt "#32102"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#32111"
+msgid "Location 1"
+msgstr ""
+
+msgctxt "#32112"
+msgid "Location 2"
+msgstr ""
+
+msgctxt "#32113"
+msgid "Location 3"
+msgstr ""
+
+msgctxt "#32114"
+msgid "Location 4"
+msgstr ""
+
+msgctxt "#32115"
+msgid "Location 5"
+msgstr ""
+
+msgctxt "#32121"
+msgid "Contact e-mail (REQUIRED by MET Norway)"
+msgstr ""
+
+msgctxt "#32122"
+msgid "A contact e-mail is required. Open the add-on settings and enter your e-mail under Advanced - MET Norway requires it to provide the forecast."
+msgstr ""
+
+msgctxt "#32123"
+msgid "Enter a contact e-mail in the settings"
+msgstr ""
+
+msgctxt "#32200"
+msgid "Clear sky"
+msgstr ""
+
+msgctxt "#32201"
+msgid "Cloudy"
+msgstr ""
+
+msgctxt "#32202"
+msgid "Fair"
+msgstr ""
+
+msgctxt "#32203"
+msgid "Fog"
+msgstr ""
+
+msgctxt "#32204"
+msgid "Heavy rain"
+msgstr ""
+
+msgctxt "#32205"
+msgid "Heavy rain and thunder"
+msgstr ""
+
+msgctxt "#32206"
+msgid "Heavy rain showers"
+msgstr ""
+
+msgctxt "#32207"
+msgid "Heavy rain showers and thunder"
+msgstr ""
+
+msgctxt "#32208"
+msgid "Heavy sleet"
+msgstr ""
+
+msgctxt "#32209"
+msgid "Heavy sleet and thunder"
+msgstr ""
+
+msgctxt "#32210"
+msgid "Heavy sleet showers"
+msgstr ""
+
+msgctxt "#32211"
+msgid "Heavy sleet showers and thunder"
+msgstr ""
+
+msgctxt "#32212"
+msgid "Heavy snow"
+msgstr ""
+
+msgctxt "#32213"
+msgid "Heavy snow and thunder"
+msgstr ""
+
+msgctxt "#32214"
+msgid "Heavy snow showers"
+msgstr ""
+
+msgctxt "#32215"
+msgid "Heavy snow showers and thunder"
+msgstr ""
+
+msgctxt "#32216"
+msgid "Light rain"
+msgstr ""
+
+msgctxt "#32217"
+msgid "Light rain and thunder"
+msgstr ""
+
+msgctxt "#32218"
+msgid "Light rain showers"
+msgstr ""
+
+msgctxt "#32219"
+msgid "Light rain showers and thunder"
+msgstr ""
+
+msgctxt "#32220"
+msgid "Light sleet"
+msgstr ""
+
+msgctxt "#32221"
+msgid "Light sleet and thunder"
+msgstr ""
+
+msgctxt "#32222"
+msgid "Light sleet showers"
+msgstr ""
+
+msgctxt "#32223"
+msgid "Light sleet showers and thunder"
+msgstr ""
+
+msgctxt "#32224"
+msgid "Light snow"
+msgstr ""
+
+msgctxt "#32225"
+msgid "Light snow and thunder"
+msgstr ""
+
+msgctxt "#32226"
+msgid "Light snow showers"
+msgstr ""
+
+msgctxt "#32227"
+msgid "Light snow showers and thunder"
+msgstr ""
+
+msgctxt "#32228"
+msgid "Partly cloudy"
+msgstr ""
+
+msgctxt "#32229"
+msgid "Rain"
+msgstr ""
+
+msgctxt "#32230"
+msgid "Rain and thunder"
+msgstr ""
+
+msgctxt "#32231"
+msgid "Rain showers"
+msgstr ""
+
+msgctxt "#32232"
+msgid "Rain showers and thunder"
+msgstr ""
+
+msgctxt "#32233"
+msgid "Sleet"
+msgstr ""
+
+msgctxt "#32234"
+msgid "Sleet and thunder"
+msgstr ""
+
+msgctxt "#32235"
+msgid "Sleet showers"
+msgstr ""
+
+msgctxt "#32236"
+msgid "Sleet showers and thunder"
+msgstr ""
+
+msgctxt "#32237"
+msgid "Snow"
+msgstr ""
+
+msgctxt "#32238"
+msgid "Snow and thunder"
+msgstr ""
+
+msgctxt "#32239"
+msgid "Snow showers"
+msgstr ""
+
+msgctxt "#32240"
+msgid "Snow showers and thunder"
+msgstr ""

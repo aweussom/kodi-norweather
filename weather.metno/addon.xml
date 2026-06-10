@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="weather.metno" name="Norweather" version="1.2.2" provider-name="aweussom">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="resource.images.weathericons.default" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.python.weather" library="default.py"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Norwegian weather forecasts from MET Norway (yr.no)</summary>
+		<description lang="en_GB">"Are you using that Norwegian service?" — Norweather brings forecasts from the Norwegian Meteorological Institute (MET Norway, api.met.no), the same data as yr.no, to Kodi. Location search uses Kartverket's official place-name register, so it finds even the tiniest Norwegian places that other services miss. 7-day and hourly forecast, sunrise/sunset. No API key needed — just enter a contact e-mail (required by MET). Unofficial add-on, not affiliated with MET Norway or NRK/Yr.</description>
+		<summary lang="nb_NO">Norske værvarsel fra Meteorologisk institutt (yr.no)</summary>
+		<description lang="nb_NO">Norweather henter værvarsel fra Meteorologisk institutt (MET Norway, api.met.no) — samme data som yr.no — inn i Kodi. Stedssøket bruker Kartverkets offisielle stedsnavnregister, så det finner selv de minste norske stedene som andre tjenester ikke har. 7-dagers- og timesvarsel, soloppgang/-nedgang. Ingen API-nøkkel nødvendig — bare legg inn en kontakt-epost (påkrevd av MET). Uoffisielt addon, ikke tilknyttet MET Norway eller NRK/Yr.</description>
+		<platform>all</platform>
+		<license>MIT</license>
+		<source>https://github.com/aweussom/kodi-norweather</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
+		<news>v1.2.2: Renamed to Norweather.
+v1.2.1: Fixed missing forecast icons in Estuary (Kodi 21) by using Kodi's built-in weather-icon set with correct icon codes.
+v1.2.0: Contact e-mail now required with a clear prompt; transient errors no longer pop a scary dialog.</news>
+	</extension>
+</addon>

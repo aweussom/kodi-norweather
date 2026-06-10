@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts (attach zips to GitHub Releases instead of committing)
+weather.metno-*.zip
+
+# Personal / secret files — DO NOT publish (contain Kodi web password, LAN IP)
+kodi.ini
+tools/kodi_*.py
+.claude/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

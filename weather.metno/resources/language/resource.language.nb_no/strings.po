@@ -1,0 +1,216 @@
+# Kodi Media Center language file
+# Addon Name: Yr (MET Norway)
+# Addon id: weather.metno
+# Addon Provider: tommyleo
+msgid ""
+msgstr ""
+"Project-Id-Version: weather.metno\n"
+"POT-Creation-Date: 2026-06-03 12:00+0000\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#32101"
+msgid "Locations"
+msgstr "Steder"
+
+msgctxt "#32102"
+msgid "Advanced"
+msgstr "Avansert"
+
+msgctxt "#32111"
+msgid "Location 1"
+msgstr "Sted 1"
+
+msgctxt "#32112"
+msgid "Location 2"
+msgstr "Sted 2"
+
+msgctxt "#32113"
+msgid "Location 3"
+msgstr "Sted 3"
+
+msgctxt "#32114"
+msgid "Location 4"
+msgstr "Sted 4"
+
+msgctxt "#32115"
+msgid "Location 5"
+msgstr "Sted 5"
+
+msgctxt "#32121"
+msgid "Contact e-mail (REQUIRED by MET Norway)"
+msgstr "Kontakt-epost (PÅKREVD av Meteorologisk institutt)"
+
+msgctxt "#32122"
+msgid "A contact e-mail is required. Open the add-on settings and enter your e-mail under Advanced - MET Norway requires it to provide the forecast."
+msgstr "Kontakt-epost er påkrevd. Åpne addon-innstillingene og legg inn e-posten din under Avansert - Meteorologisk institutt krever det for å gi værvarsel."
+
+msgctxt "#32123"
+msgid "Enter a contact e-mail in the settings"
+msgstr "Legg inn kontakt-epost i innstillingene"
+
+msgctxt "#32200"
+msgid "Clear sky"
+msgstr "Klarvær"
+
+msgctxt "#32201"
+msgid "Cloudy"
+msgstr "Skyet"
+
+msgctxt "#32202"
+msgid "Fair"
+msgstr "Lettskyet"
+
+msgctxt "#32203"
+msgid "Fog"
+msgstr "Tåke"
+
+msgctxt "#32204"
+msgid "Heavy rain"
+msgstr "Kraftig regn"
+
+msgctxt "#32205"
+msgid "Heavy rain and thunder"
+msgstr "Kraftig regn og torden"
+
+msgctxt "#32206"
+msgid "Heavy rain showers"
+msgstr "Kraftige regnbyger"
+
+msgctxt "#32207"
+msgid "Heavy rain showers and thunder"
+msgstr "Kraftige regnbyger og torden"
+
+msgctxt "#32208"
+msgid "Heavy sleet"
+msgstr "Kraftig sludd"
+
+msgctxt "#32209"
+msgid "Heavy sleet and thunder"
+msgstr "Kraftig sludd og torden"
+
+msgctxt "#32210"
+msgid "Heavy sleet showers"
+msgstr "Kraftige sluddbyger"
+
+msgctxt "#32211"
+msgid "Heavy sleet showers and thunder"
+msgstr "Kraftige sluddbyger og torden"
+
+msgctxt "#32212"
+msgid "Heavy snow"
+msgstr "Kraftig snøfall"
+
+msgctxt "#32213"
+msgid "Heavy snow and thunder"
+msgstr "Kraftig snøfall og torden"
+
+msgctxt "#32214"
+msgid "Heavy snow showers"
+msgstr "Kraftige snøbyger"
+
+msgctxt "#32215"
+msgid "Heavy snow showers and thunder"
+msgstr "Kraftige snøbyger og torden"
+
+msgctxt "#32216"
+msgid "Light rain"
+msgstr "Lett regn"
+
+msgctxt "#32217"
+msgid "Light rain and thunder"
+msgstr "Lett regn og torden"
+
+msgctxt "#32218"
+msgid "Light rain showers"
+msgstr "Lette regnbyger"
+
+msgctxt "#32219"
+msgid "Light rain showers and thunder"
+msgstr "Lette regnbyger og torden"
+
+msgctxt "#32220"
+msgid "Light sleet"
+msgstr "Lett sludd"
+
+msgctxt "#32221"
+msgid "Light sleet and thunder"
+msgstr "Lett sludd og torden"
+
+msgctxt "#32222"
+msgid "Light sleet showers"
+msgstr "Lette sluddbyger"
+
+msgctxt "#32223"
+msgid "Light sleet showers and thunder"
+msgstr "Lette sluddbyger og torden"
+
+msgctxt "#32224"
+msgid "Light snow"
+msgstr "Lett snø"
+
+msgctxt "#32225"
+msgid "Light snow and thunder"
+msgstr "Lett snø og torden"
+
+msgctxt "#32226"
+msgid "Light snow showers"
+msgstr "Lette snøbyger"
+
+msgctxt "#32227"
+msgid "Light snow showers and thunder"
+msgstr "Lette snøbyger og torden"
+
+msgctxt "#32228"
+msgid "Partly cloudy"
+msgstr "Delvis skyet"
+
+msgctxt "#32229"
+msgid "Rain"
+msgstr "Regn"
+
+msgctxt "#32230"
+msgid "Rain and thunder"
+msgstr "Regn og torden"
+
+msgctxt "#32231"
+msgid "Rain showers"
+msgstr "Regnbyger"
+
+msgctxt "#32232"
+msgid "Rain showers and thunder"
+msgstr "Regnbyger og torden"
+
+msgctxt "#32233"
+msgid "Sleet"
+msgstr "Sludd"
+
+msgctxt "#32234"
+msgid "Sleet and thunder"
+msgstr "Sludd og torden"
+
+msgctxt "#32235"
+msgid "Sleet showers"
+msgstr "Sluddbyger"
+
+msgctxt "#32236"
+msgid "Sleet showers and thunder"
+msgstr "Sluddbyger og torden"
+
+msgctxt "#32237"
+msgid "Snow"
+msgstr "Snø"
+
+msgctxt "#32238"
+msgid "Snow and thunder"
+msgstr "Snø og torden"
+
+msgctxt "#32239"
+msgid "Snow showers"
+msgstr "Snøbyger"
+
+msgctxt "#32240"
+msgid "Snow showers and thunder"
+msgstr "Snøbyger og torden"

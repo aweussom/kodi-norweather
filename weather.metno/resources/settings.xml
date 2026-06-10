@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<settings version="1">
+	<section id="weather.metno">
+		<category id="locations" label="32101">
+			<group id="1">
+				<setting help="" id="loc1_name" label="32111" type="string">
+					<level>0</level>
+					<default></default>
+					<constraints>
+						<allowempty>true</allowempty>
+					</constraints>
+					<control format="action" type="button">
+						<data>RunScript(weather.metno,loc1)</data>
+					</control>
+				</setting>
+				<setting help="" id="loc2_name" label="32112" type="string">
+					<level>0</level>
+					<default></default>
+					<constraints>
+						<allowempty>true</allowempty>
+					</constraints>
+					<dependencies>
+						<dependency type="enable">
+							<condition operator="!is" setting="loc1_name"/>
+						</dependency>
+					</dependencies>
+					<control format="action" type="button">
+						<data>RunScript(weather.metno,loc2)</data>
+					</control>
+				</setting>
+				<setting help="" id="loc3_name" label="32113" type="string">
+					<level>0</level>
+					<default></default>
+					<constraints>
+						<allowempty>true</allowempty>
+					</constraints>
+					<dependencies>
+						<dependency type="enable">
+							<condition operator="!is" setting="loc2_name"/>
+						</dependency>
+					</dependencies>
+					<control format="action" type="button">
+						<data>RunScript(weather.metno,loc3)</data>
+					</control>
+				</setting>
+				<setting help="" id="loc4_name" label="32114" type="string">
+					<level>0</level>
+					<default></default>
+					<constraints>
+						<allowempty>true</allowempty>
+					</constraints>
+					<dependencies>
+						<dependency type="enable">
+							<condition operator="!is" setting="loc3_name"/>
+						</dependency>
+					</dependencies>
+					<control format="action" type="button">
+						<data>RunScript(weather.metno,loc4)</data>
+					</control>
+				</setting>
+				<setting help="" id="loc5_name" label="32115" type="string">
+					<level>0</level>
+					<default></default>
+					<constraints>
+						<allowempty>true</allowempty>
+					</constraints>
+					<dependencies>
+						<dependency type="enable">
+							<condition operator="!is" setting="loc4_name"/>
+						</dependency>
+					</dependencies>
+					<control format="action" type="button">
+						<data>RunScript(weather.metno,loc5)</data>
+					</control>
+				</setting>
+				<setting help="" id="loc1_lat" label="32111" type="string">
+					<level>4</level>
+					<default></default>
+					<constraints><allowempty>true</allowempty></constraints>
+				</setting>
+				<setting help="" id="loc1_lon" label="32111" type="string">
+					<level>4</level>
+					<default></default>
+					<constraints><allowempty>true</allowempty></constraints>
+				</setting>
+				<setting help="" id="loc2_lat" label="32112" type="string">
+					<level>4</level>
+					<default></default>
+					<constraints><allowempty>true</allowempty></constraints>
+				</setting>
+				<setting help="" id="loc2_lon" label="32112" type="string">
+					<level>4</level>
+					<default></default>
+					<constraints><allowempty>true</allowempty></constraints>
+				</setting>
+				<setting help="" id="loc3_lat" label="32113" type="string">
+					<level>4</level>
+					<default></default>
+					<constraints><allowempty>true</allowempty></constraints>
+				</setting>
+				<setting help="" id="loc3_lon" label="32113" type="string">
+					<level>4</level>
+					<default></default>
+					<constraints><allowempty>true</allowempty></constraints>
+				</setting>
+				<setting help="" id="loc4_lat" label="32114" type="string">
+					<level>4</level>
+					<default></default>
+					<constraints><allowempty>true</allowempty></constraints>
+				</setting>
+				<setting help="" id="loc4_lon" label="32114" type="string">
+					<level>4</level>
+					<default></default>
+					<constraints><allowempty>true</allowempty></constraints>
+				</setting>
+				<setting help="" id="loc5_lat" label="32115" type="string">
+					<level>4</level>
+					<default></default>
+					<constraints><allowempty>true</allowempty></constraints>
+				</setting>
+				<setting help="" id="loc5_lon" label="32115" type="string">
+					<level>4</level>
+					<default></default>
+					<constraints><allowempty>true</allowempty></constraints>
+				</setting>
+			</group>
+		</category>
+		<category id="advanced" label="32102">
+			<group id="1">
+				<setting help="32122" id="contact" label="32121" type="string">
+					<level>0</level>
+					<default></default>
+					<constraints>
+						<allowempty>false</allowempty>
+					</constraints>
+					<control type="edit" format="string">
+						<heading>32121</heading>
+					</control>
+				</setting>
+			</group>
+		</category>
+	</section>
+</settings>
