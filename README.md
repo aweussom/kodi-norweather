@@ -1,5 +1,7 @@
 # Norweather — norsk vær for Kodi
 
+### *Weather you want it or not!* ☔
+
 Vær-addon for Kodi (addon-id `weather.metno`) som henter varsel rett fra
 **Meteorologisk institutt** (api.met.no — samme data som yr.no) og søker steder
 via **Kartverkets stedsnavnregister** (ws.geonorge.no). Finner alt fra Oslo til
