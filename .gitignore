@@ -9,8 +9,6 @@ weather.metno-*.zip
 # Personal / secret files — DO NOT publish (contain Kodi web password, LAN IP)
 kodi.ini
 tools/kodi_*.py
-.claude/*
-!.claude/memory/
 # OS / editor cruft
 .DS_Store
 Thumbs.db
